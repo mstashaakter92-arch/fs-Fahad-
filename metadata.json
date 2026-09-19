@@ -1,0 +1,6 @@
+{
+  "name": "FF TopUp BD",
+  "description": "Free Fire Diamond Top-Up & Digital Services App with instant delivery, BD wallet support, packages and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
